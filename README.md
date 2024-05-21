@@ -7,3 +7,5 @@
 >> Download: 
 <a href="https://mega.nz/file/0PcFhTgB#NmuhvUnjK09oCDt29WhpaOEf8vKqRWyjWgZY_bbZzQw"> Estrada Challenge 1 </a>
 <meta name="salesjackson068@gmail.com" content="ca-pub-6609321519063446">
+<meta name="google-adsense-platform-account" content="{
+pub-6609321519063446}">
