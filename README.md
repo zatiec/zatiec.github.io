@@ -6,4 +6,4 @@
 ![screenshot1](https://zatiec.github.io/Estrada%20Challenge%20(1)%202024-04-21%208_35_28%20AM.png)
 >> Download: 
 <a href="https://mega.nz/file/0PcFhTgB#NmuhvUnjK09oCDt29WhpaOEf8vKqRWyjWgZY_bbZzQw"> Estrada Challenge 1 </a>
-<meta name="google-adsense-account" content="ca-pub-6609321519063446">
+<meta name="salesjackson068@gmail.com" content="ca-pub-6609321519063446">
