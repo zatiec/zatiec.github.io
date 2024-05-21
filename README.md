@@ -9,3 +9,4 @@
 <meta name="salesjackson068@gmail.com" content="ca-pub-6609321519063446">
 <meta name="google-adsense-platform-account" content="{
 pub-6609321519063446}">
+<meta name="google-site-verification" content="3byA9DmBm7NU1cIvvQaINmJz2bV9csqHDGCVjADza0E" />
