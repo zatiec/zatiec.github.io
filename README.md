@@ -7,6 +7,5 @@
 >> Download: 
 <a href="https://mega.nz/file/0PcFhTgB#NmuhvUnjK09oCDt29WhpaOEf8vKqRWyjWgZY_bbZzQw"> Estrada Challenge 1 </a>
 <meta name="salesjackson068@gmail.com" content="ca-pub-6609321519063446">
-<meta name="google-adsense-platform-account" content="{
-pub-6609321519063446}">
-<meta name="google-site-verification" content="3byA9DmBm7NU1cIvvQaINmJz2bV9csqHDGCVjADza0E" />
+Download Mobile Edition: (Android Only)
+<a href="https://mega.nz/file/kCMzDKLR#F9_o32LxpVty4sIjzo668rYvAT3ZBVQoJa5El4QCydI"> Estrada Challenge 1 ME </a>
