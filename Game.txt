@@ -1,0 +1,42 @@
+Game
+	name:Console Clicker!
+	by:zatiecstudios
+	desc: Click on you game to recieve more sales, then unlock new consoles to realese to, to increase sales!
+	created:23/5/2024
+	updated:23/5/2024
+Settings
+	background:stuff/https://zatiec.github.io/pexels-francesco-ungaro-1670977.jpg
+	building cost increase:110%
+	building cost refund:65%
+	spritesheet:icons, 1000 by 700, stuff/https://zatiec.github.io/20221102_rizz__1000x700.jpg
+	stylesheet:stuff/stylesheet:stuff/https://zatiec.github.io/20221102_rizz__1000x700.jpg
+Layout
+	use default
+Buttons
+	*testButton
+		name:Make a sale
+		desc:Click to gain sales!
+		on click:yield 1 sale
+		icon:stuff/https://zatiec.github.io/20221102_rizz__1000x700.jpg
+		no text
+		class:bigButton hasFlares
+		icon class:shadowed
+		tooltip orgin:bottom
+		tooltip: class:red
+Resources
+	*Sale|Sales
+	name:Sale|Sales
+	desc:Your Sales!
+	icon:icons[0,0]
+	class:noBackground
+	hidden when 0
+Buildings
+	*TEMPLATE
+		on click:anim glow
+	*NCS
+		name:NCS|NCS
+		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 Sale every 10 seconds.
+		icon:icons[3,0]
+		cost:15 Sales
+		on tick:yield 0.1 Sales
+		unlocked
